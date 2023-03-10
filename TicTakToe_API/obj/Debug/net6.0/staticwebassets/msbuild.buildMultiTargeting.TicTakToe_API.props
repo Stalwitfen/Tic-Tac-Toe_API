@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TicTakToe_API.props" />
+</Project>
